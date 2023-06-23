@@ -1,1 +1,21 @@
 @import url('https://fonts.googleapis.com/css?family=Tangerine');
+body{
+    font-size: 1rem;
+}
+.test{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(232, 232, 236);
+    overflow: hidden;
+    border-width: 30px;
+    border-color: #b64242;
+    border-style: groove;
+    border-radius: 150px/30px;
+    cursor: pointer;
+
+}
+.test:hover{
+    border-color: #4253b6;
+    border-style: dashed;
+    
+}
