@@ -1,10 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
 .d1{
-    background-color: aqua;
+    position: relative;
+    left: 50px;
+    font-weight: 700;
 }
-.d2{
-    background-color: bisque;
+.sp1{
+    position: relative;
+    left: 30px;
+    font-family: 'Cormorant Garamond', serif;
+}
+.sp2{
+    position: relative;
+    left: 50px;
+    font-family: 'Cormorant Garamond', serif;
+}
+.sp3{
+    position: relative;
+    left: 70px;
+    font-family: 'Cormorant Garamond', serif;
+}
+.sp4{
+    position: relative;
+    left: 90px;
+    font-family: 'Cormorant Garamond', serif;
+}
+.hr1{
+    position: relative;
+    right: 30px;
+    width: 1000px;
 }
 .img1{
-    max-height: 10px;
-    margin-left: 5px;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 1500px;
+    bottom: 55px;
+}
+.img2{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 1520px;
+    bottom: 55px;
+}
+.img3{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 1540px;
+    bottom: 55px;
+}
+.img4{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 1560px;
+    bottom: 55px;
+}
+.img5{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 1580px;
+    bottom: 55px;
+}
+.text1{
+    font-size: 50px;
+    font-weight: 700;
+    font-family: 'Cormorant Garamond', serif;
+    position: relative;
+    left: 60px;
+}
+.text2{
+    font-family: 'Cormorant Garamond', serif;
+    position: relative;
+    left: 60px;
+    font-size: 25px
+}
+.text3{
+    font-family: 'Cormorant Garamond', serif;
+    position: relative;
+    top: 20px;
+    left: 60px;
+    font-size: 20px
+    
+}
+
+.img6{
+    width: 900px;
+    height: 900px;
+    position: relative;
+    left: 900px;
+    bottom: 330px;
+}
+.starta1{
+    border: solid 2px rgb(158, 158, 158);
+    width: 150px;
+    text-align:center;
+    height: 50px;
+    position: relative;
+    bottom: 850px;
+    left: 70px;
+}
+.a1{
+    text-decoration: none;
+    color: grey;
+}
+.hr2{
+    position: relative;
+    left: 300px;
+    bottom: 396px;
+    width: 1300px;
+}
+.img7{
+    position: relative;
+    bottom: 415px;
+    left: 30px;
+    width: 700px;
+    height: 700px;
+}
+.text4{
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 300;
+    position: relative;
+    bottom: 1000px;
+    left: 790px;
+    font-size: 40px
+    
+}
+.text5{
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 300;
+    position: relative;
+    right: 10px;
+    font-size: 20px;
+    bottom: -10px;
+
+    
+}
+.starta2{
+    border: solid 2px rgb(158, 158, 158);
+    width: 150px;
+    text-align:center;
+    height: 50px;
+    position: relative;
+    bottom: 950px;
+    left: 800px;
+}
+.a2{
+    text-decoration: none;
+    color: grey;
+}
+.sp4{
+    position: relative;
+    text-decoration: none;
+}
+.a5{
+    text-decoration: none;
+    font-family: 'Cormorant Garamond', serif;
+    position: relative;
+    color: black;
 }
